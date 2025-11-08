@@ -1,8 +1,6 @@
 # Week 11 – PySpark Data Pipeline
 
-**Author:** Franco Amigo  
-**Environment:** Databricks 
-**Dataset:** NYC Yellow Taxi Trip Records (2006–2010)
+**Author:** Franco Amigo  | **Environment:** Databricks | **Dataset:** NYC Yellow Taxi Trip Records (2006–2010)
 
 ---
 
