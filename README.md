@@ -164,11 +164,11 @@ This could be improved by converting the raw data into **Parquet format**, enabl
 
 -  Spark SQL results for both queries
    
-  __Average trip by day of week__
+ __99 Percentile Tip Amount by Month__
 
 <img width="158" height="301" alt="image" src="https://github.com/user-attachments/assets/060ef6e2-c28d-4aef-8ebc-37e15d2ce757" />
 
- __99 Percentile Tip Amount by Month__
+  __Average trip by day of week__
  
 <img width="178" height="202" alt="image" src="https://github.com/user-attachments/assets/c76a1fea-fc0b-4a52-a58f-2cd252121597" />
 
